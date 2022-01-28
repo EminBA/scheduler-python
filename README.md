@@ -20,6 +20,7 @@ Note: we only consider 1-hour slots when computing common slots. For example, if
 
 # Assume that:
 timezone_offset is following the GMT format "+X" or "-Y" where X and Y are the offset.
+
 slot_n_start-slot_n_end are integers within the range [0..23];
 
 
