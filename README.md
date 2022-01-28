@@ -25,6 +25,7 @@ slot_n_start-slot_n_end are integers within the range [0..23];
 
 # Example:
 Input
+
 Amin +2 9-13 14-18
 
 May +8 9-10 11-13 20-23
